@@ -4,6 +4,7 @@ In this chapter, we will write our first Node.js script.
 ```bash
 node -v
 ```
+👉 Output:
 node -v
 ## Checking Node.js Version
 
