@@ -14,4 +14,16 @@ Run the following command in the terminal:
 ```bash
 node -v
 ```
+This command displays the installed Node.js version.
 -----------
+Node.js REPL
+
+REPL stands for Read – Eval – Print – Loop.
+It allows us to execute JavaScript code interactively.
+Start the REPL by typing:
+```bash
+node
+```Hello World in REPL
+
+Inside the REPL, type:
+
