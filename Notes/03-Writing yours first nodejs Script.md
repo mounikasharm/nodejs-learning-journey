@@ -15,16 +15,9 @@ This command shows the installed Node.js version.
 
 ---
 
-### Example: JavaScript Code Block
+# 2 Type node in your terminal to start the NodeJS REPL (Read-Eval-Print-Loop) environment.
 
-```md
-## First JavaScript in Node.js
 
-Create a file named `index.js` and add the following code:
-
-```js
-console.log("Hello World");
-Run the file using:
 
 
 
