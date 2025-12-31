@@ -1,39 +1,45 @@
-# Chapter 03: Writing Your First Node.js Script
-Node.js allows us to run JavaScript code outside the browser.
-In this chapter, we will write our first Node.js script.
-1. If NodeJS is installed, you can check the version by running the following command in your terminal:
+# 📘 Chapter 03: Writing Your First Node.js Script
 
+Welcome to **Chapter 03** of the **Node.js Learning Journey**.  
+In this chapter, you will write and execute your **first Node.js script** and understand how JavaScript runs outside the browser.
 
+---
 
-```bash
-node -v
-```
-👉 Output:
-node -v
+## 🎯 Chapter Objectives
 
+By the end of this chapter, you will be able to:
 
+- Check if Node.js is installed
+- Use the Node.js REPL
+- Write basic JavaScript in Node.js
+- Create and run a Node.js file
+- Understand how Node.js executes JavaScript
 
-This command shows the installed Node.js version.
+---
 
-2. Type node in your terminal to start the NodeJS REPL (Read-Eval-Print-Loop) environment.
-3.Type console.log("Hello World") in the REPL and press enter to print "Hello World" in the terminal.
-4.Let's do some operation check it out.
-``` bash
-var a = 10; //enter
-console.log(a); //output: 10
-```
-5.You can notice undefined in the output.
-```bash
-var a = 10; //enter
-var b = 20; //enter
-console.log(a+b); //output: 30
-```
-6.Create a folder named nodeJs and open cmd in that folder and type code . to open the folder in VS Code.
-7.Make a file named index.js and type the following code in it.
-NodeJs is not a language, it is a runtime environment. It is used to run JavaScript code outside the browser. It is built on top of the V8 JavaScript engine. It is used to build server-side applications.
+## 🛠️ Prerequisites
 
+- Node.js installed on your system
+- Basic knowledge of JavaScript
+- VS Code or any code editor
 
+---
 
+## 📌 Topics Covered
 
+- Checking Node.js version
+- Node.js REPL (Read–Eval–Print–Loop)
+- Running JavaScript in terminal
+- Writing the first Node.js file
+- Understanding `console.log()` in Node.js
+- Difference between browser console and Node.js console
 
+---
 
+## ▶️ How to Run the First Script
+
+1. Create a file named `index.js`
+2. Add the following code:
+
+```js
+console.log("Hello World");
