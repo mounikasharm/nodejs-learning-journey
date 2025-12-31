@@ -7,3 +7,7 @@ node -v```
 
 
 This command shows the installed Node.js version.
+```bash
+node -v
+```
+
