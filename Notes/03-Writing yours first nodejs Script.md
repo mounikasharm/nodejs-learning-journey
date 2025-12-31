@@ -45,5 +45,9 @@ By the end of this chapter, you will be able to:
 console.log("Hello World");
 ```
 3.Open terminal and run:
+
 node index.js
+Output
+Hello World
+
 
