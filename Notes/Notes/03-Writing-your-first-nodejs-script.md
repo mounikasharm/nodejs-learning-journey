@@ -1,20 +1,26 @@
-FINAL README.md (JUST COPY THIS)
-# ⭐ Writing Your First Node.js Script
+👉 PASTE THIS FULL CONTENT ONLY
 
-This chapter explains how to write and run your **first Node.js script**.
+⬇️⬇️⬇️ COPY FROM HERE ⬇️⬇️⬇️
+
+# ⭐ First Node.js Script
+
+Node.js allows us to run JavaScript code outside the browser.
 
 ---
 
-## 🔍 Check Node.js Installation
+## 🔍 Check Node.js Version
 
 ```bash
 node -v
 
-🧠 Start Node.js REPL
+
+This command shows the installed Node.js version.
+
+🧪 Start Node.js REPL
 node
 
 
-REPL means Read – Eval – Print – Loop
+REPL stands for Read–Eval–Print–Loop.
 
 👋 Hello World (REPL)
 console.log("Hello World");
@@ -35,7 +41,7 @@ Output:
 undefined
 
 
-➡ undefined appears because assignment does not return a value.
+undefined appears because assignment does not return a value.
 
 ➕ Math Operation
 var a = 10;
@@ -47,15 +53,22 @@ Output:
 
 30
 
-📁 Create Node.js Project
-mkdir nodeJs
-cd nodeJs
+📁 Create First Node.js File
+
+Create a folder named nodeJs
+
+Open terminal in that folder
+
+Open VS Code:
+
 code .
 
-📝 Create index.js
+
+Create index.js
+
 console.log("Hello World");
 
-▶ Run the Script
+▶️ Run the Script
 node index.js
 
 
@@ -63,21 +76,19 @@ Output:
 
 Hello World
 
-📌 About Node.js
+ℹ️ About Node.js
 
 Node.js is not a language
 
 It is a runtime environment
 
-Runs JavaScript outside the browser
-
-Built on V8 engine
+Built on V8 JavaScript engine
 
 Used for server-side applications
 
 🖥 Console in Node.js
 
-Node.js console works similar to browser console:
+Node.js has a built-in console module:
 
 console.log()
 
@@ -85,13 +96,12 @@ console.error()
 
 console.warn()
 
-But output appears in the terminal.
+It works similar to the browser console.
 
 ✅ Summary
 
-✔ Node installed
-✔ REPL used
-✔ First script created
-✔ Code executed successfully
-
-⭐ End of Chapter 03
+✔ Checked Node.js version
+✔ Used REPL
+✔ Wrote first Node.js script
+✔ Executed using terminal
+```
