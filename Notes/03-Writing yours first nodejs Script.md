@@ -43,3 +43,4 @@ By the end of this chapter, you will be able to:
 
 ```js
 console.log("Hello World");
+Open terminal and run:
