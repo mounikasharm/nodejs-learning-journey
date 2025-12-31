@@ -1,5 +1,4 @@
-# 🚀 Node.js Complete Guide (Beginner Friendly)
-
+## 🧩 Node.js Installation Guide
 A complete step-by-step guide to install, understand, and start working with Node.js.  
 This README is designed for **students, freshers, and beginners**.
 
