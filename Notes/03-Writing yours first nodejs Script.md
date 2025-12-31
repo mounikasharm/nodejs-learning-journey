@@ -1,4 +1,3 @@
-COPY THIS WHOLE THING AND PASTE IN YOUR FILE
 # Chapter 03: Writing Your First Node.js Script
 
 ## Checking Node.js Version
