@@ -162,10 +162,3 @@ This should print `Hello, world!` to the terminal or command prompt.
 - **Download Link:** [Download Sublime Text](https://www.sublimetext.com/)
 - **Note:** Sublime Text is a paid text editor, but it offers a free trial period.
 
-
-| IDE/Text Editor | Pros | Cons |
-| --- | --- | --- |
-| Visual Studio Code | • Free and open source • Large and active community • Customizable UI • Builtin support for JavaScript/Node.js | • Can be resource intensive • Some features require extensions • Limited support for larger projects |
-| WebStorm | • Builtin support for Node.js development • Intuitive and user friendly interface • Great for full stack development • Robust set of features | • Paid IDE • Can be resource intensive  |
-| Atom | • Free and open source • Highly customizable • Large library of plugins and packages • Builtin support for Node.js | • Slower performance compared to other IDEs • Some features require packages • Limited support for larger projects |
-| Sublime Text | • Lightweight and fast • Highly customizable • Large library of plugins and packages • Builtin support for JavaScript/Node.js | • Paid text editor • Limited support for larger projects • Some features require packages |
