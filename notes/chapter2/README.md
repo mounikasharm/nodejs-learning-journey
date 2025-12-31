@@ -1,7 +1,7 @@
 # 🌐 Client Side vs Server Side (Node.js Basics)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" width="75%" style="border-radius:12px"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="75%" style="border-radius:12px"/>
 </p>
 
 ---
@@ -11,26 +11,35 @@
 ### 🧑‍💻 Client Side
 Client-side code runs **inside the user’s browser**.
 
-📌 Examples:
+📌 Technologies used:
 - HTML – structure
 - CSS – styling
 - JavaScript – interactivity
-- Fetching data using AJAX / Fetch API
+- Fetch / AJAX – API calls
 
-💡 Client-side is responsible for **what users see and interact with**.
+💡 Client-side handles **UI and user interaction**.
 
 ---
 
 ### 🖥️ Server Side
-Server-side code runs **on a server**.
+Server-side code runs **on a server**, not in the browser.
 
-📌 Examples:
-- Handling requests
-- Connecting to databases
+📌 Responsibilities:
+- Handle client requests
+- Connect to databases
 - Authentication & authorization
 - Business logic
 
-👉 **:contentReference[oaicite:0]{index=0}** is commonly used on the server side.
+👉 Common server-side technology:
+- **:contentReference[oaicite:0]{index=0}**
+
+---
+
+### 🔁 Client–Server Flow
+
+<p align="center">
+  <img src="https://www.guru99.com/images/1/020819_0500_ClientServe1.png" width="80%" style="border-radius:10px"/>
+</p>
 
 ---
 
@@ -38,10 +47,10 @@ Server-side code runs **on a server**.
 
 📧 **:contentReference[oaicite:1]{index=1}**
 
-- Client side:
-  - Loads UI
-  - User clicks “Inbox”
-- Server side:
+- Client Side:
+  - Displays inbox UI
+  - Sends request when you open mail
+- Server Side:
   - Verifies user
   - Fetches emails from database
   - Sends data back to browser
@@ -51,23 +60,23 @@ Server-side code runs **on a server**.
 ## ⭐ How does Node.js use JavaScript?
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/97989643/224650492-61a83921-b8a7-46e6-99bc-cf05dea143bc.png" width="80%" style="border-radius:12px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1100/1*Yh8ZKJg7ZpPpXcT2m8V1Nw.png" width="85%" style="border-radius:12px"/>
 </p>
 
 👉 **:contentReference[oaicite:2]{index=2}** allows JavaScript to run **outside the browser**.
 
-### 🔥 How?
-- Node.js uses **:contentReference[oaicite:3]{index=3}**
-- V8 compiles JavaScript directly into machine code
-- This makes Node.js **fast and efficient**
+### 🔥 Behind the scenes
+- Uses **:contentReference[oaicite:3]{index=3}**
+- Converts JavaScript into machine code
+- Provides fast execution
 
-🧠 Node.js was created by **:contentReference[oaicite:4]{index=4}**, using the V8 engine.
+🧠 Node.js was created by **:contentReference[oaicite:4]{index=4}** using the V8 engine.
 
 ---
 
 ### 🧪 Simple Node.js Example
 
-> ⚠️ Don’t worry if you don’t understand this now — we’ll explain it later 😊
+> ⚠️ Don’t worry if you don’t understand this yet — we’ll break it down later 😊
 
 ```js
 const http = require('http'); // Import HTTP module
