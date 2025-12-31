@@ -15,7 +15,7 @@ This command shows the installed Node.js version.
 
 ---
 
-# 2 Type node in your terminal to start the NodeJS REPL (Read-Eval-Print-Loop) environment.
+2 Type node in your terminal to start the NodeJS REPL (Read-Eval-Print-Loop) environment.
 
 
 
