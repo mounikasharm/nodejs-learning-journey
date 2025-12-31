@@ -1,10 +1,14 @@
-## Checking Node.js Version
+# Chapter 03: Writing Your First Node.js Script
+Node.js allows us to run JavaScript code outside the browser.
+In this chapter, we will write our first Node.js script.
 
-If Node.js is installed on your computer, open the terminal and run:
 
 ```bash
 node -v
 ```
+👉 Output:
+node -v
+
 
 
 This command shows the installed Node.js version.
