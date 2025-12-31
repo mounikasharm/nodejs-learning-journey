@@ -1,3 +1,4 @@
+COPY THIS WHOLE THING AND PASTE IN YOUR FILE
 # Chapter 03: Writing Your First Node.js Script
 
 ## Checking Node.js Version
@@ -106,22 +107,3 @@ Used Node.js REPL
 Created first Node.js file
 
 Executed JavaScript using Node.js
-
-
-### 📘 **COPY END HERE**
-
----
-
-### ✅ Final Step
-5. Paste it in GitHub  
-6. Scroll down → **Commit changes**
-
----
-
-### ❓ If you want
-Next I can:
-- Review your **GitHub structure**
-- Give **Chapter 3 MCQ test**
-- Start **small Node.js practical tasks**
-
-Just tell me 👍
