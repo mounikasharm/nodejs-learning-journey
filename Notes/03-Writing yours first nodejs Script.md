@@ -13,4 +13,17 @@ node -v
 
 This command shows the installed Node.js version.
 
+---
+
+### 5️⃣ Example: JavaScript Code Block
+
+```md
+## First JavaScript in Node.js
+
+Create a file named `index.js` and add the following code:
+
+```js
+console.log("Hello World");
+
+
 
