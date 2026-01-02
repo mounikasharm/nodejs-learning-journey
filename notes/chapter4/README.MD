@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
+    alt="Node.js Terminal Animation"
+    width="420"
+  />
+</p>
 
 ---
 
