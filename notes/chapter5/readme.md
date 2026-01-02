@@ -9,7 +9,7 @@
 </p>
 
 
-For NodeJs you need to have a basic knowledge of Javascript. If you are new to Javascript then you can check out my [tutorial on Javascript](https://codexam.vercel.app/docs/js)
+
 
 ### Some Important Notes
 
