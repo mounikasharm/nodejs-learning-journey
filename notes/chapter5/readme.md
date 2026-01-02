@@ -1,13 +1,13 @@
 ## ⭐ Fundamentals and Features
 
-
-
-
 <p align="center">
-                <img style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}}
-                src="https://media.giphy.com/media/5Sl1sMiMJTgXXTZjrL/giphy.gif"
-               />
-            </p>
+  <img
+    src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"
+    alt="Node.js Fundamentals"
+    width="420"
+  />
+</p>
+
 
 For NodeJs you need to have a basic knowledge of Javascript. If you are new to Javascript then you can check out my [tutorial on Javascript](https://codexam.vercel.app/docs/js)
 
