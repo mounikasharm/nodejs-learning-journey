@@ -1,50 +1,50 @@
 <p align="center">
   <img
-    src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+    src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif"
     alt="Node.js Modules"
     width="420"
   />
 </p>
-
----
-
-# ⭐ Node.js Modules Overview
-
-:contentReference[oaicite:0]{index=0} uses **modules** to organize code into reusable pieces.
-Modules help keep applications **clean, maintainable, and scalable**.
-
----
-
 ## ⭐ Core Modules
-
-<div style="background:#f6f8fa; padding:14px; border-left:4px solid #2ecc71; border-radius:6px;">
-
-Core modules are **built into Node.js** and come with its installation.  
-They provide basic functionalities like:
-
-- 🌐 Creating HTTP servers → `http`
-- 📁 File system handling → `fs`
-- 🧭 File paths → `path`
-- 🖥️ OS information → `os`
-- 🧠 Binary data handling → `buffer`
-
-These modules can be loaded using the `require()` function.
-
-</div>
-
----
+Core modules are built into Node.js and come with its installation. They provide basic functionalities like creating an HTTP server (`http`), handling the file system (`fs`), dealing with file paths (`path`), providing OS info (`os`), and handling binary data (`buffer`). You can load these modules using the `require` function. 📚
 
 ## ⭐ Global Modules
-
-<div style="background:#f0f7ff; padding:14px; border-left:4px solid #3498db; border-radius:6px;">
-
-Global modules are installed **system-wide**, so they can be used anywhere on your computer  
-without importing them into a project.
-
-Example: `nodemon`
-
-</div>
+Global modules are Node.js packages installed system-wide, meaning they can be used anywhere on your computer without importing them into your project. For instance, if you install `nodemon` globally, you can use it anywhere on your computer by simply running `nodemon` in your terminal. 🌐
 
 ```js
-console.log("Hello World") 
-// console.log is a global module
+console.log("Hello World") // console.log is a global module
+```
+
+## ⭐ Non-global Modules
+Non-global modules in Node.js are not part of the Node.js core and are not installed globally. They are created locally within your Node.js application and need to be imported into your project before use. 📁
+
+- Example 1:
+```js
+const fs = require('fs')
+fs.writeFileSync('hello.txt', 'Hello World') // fs (file system) is a non-global module
+```
+
+- Example 2:
+```js
+console.log("Our directory is " + __dirname) // __dirname is a non-global module
+console.log("Our file name is " + __filename) // __filename is a non-global module
+```
+
+⚡ It's recommended to always place `const abc = require('abc')` at the top of the file.
+
+> If you want to import only a specific function from a module, you can use the destructuring syntax:
+
+```js
+const { writeFileSync } = require('fs')
+writeFileSync('hello.txt', 'Hello World')
+```
+or
+```js
+const fs = require('fs').writeFileSync;
+fs('hello.txt', 'Hello World')
+```
+You can even change the variable name of the function:
+```js
+const abc = require('fs').writeFileSync;
+abc('hello.txt', 'Hello World')
+```
