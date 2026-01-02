@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhqemN1emJsMHk1aWkxZmYxcjlucnlsaTNqNmxiMHFvZDF6cDVlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5tdug88O18Rvm2m0tt/giphy.gif"
     alt="Node.js Modules"
     width="420"
   />
