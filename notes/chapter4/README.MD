@@ -1,11 +1,4 @@
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/RTAyw3f7rdJjoGJJkg/giphy.gif"
-    alt="Node.js GIF"
-    width="420"
-    style="border-radius: 10px; margin: 20px 0;"
-  />
-</p>
+
 
 ---
 
