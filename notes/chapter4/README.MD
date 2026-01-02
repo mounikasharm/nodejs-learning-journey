@@ -1,12 +1,29 @@
 <p align="center">
-                <img style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}}
-                src="https://media.giphy.com/media/RTAyw3f7rdJjoGJJkg/giphy.gif"
-               />
-   </p>
+  <img 
+    src="https://media.giphy.com/media/RTAyw3f7rdJjoGJJkg/giphy.gif"
+    alt="Node.js GIF"
+    width="420"
+    style="border-radius: 10px; margin: 20px 0;"
+  />
+</p>
 
-1. If NodeJS is installed, you can check the version by running the following command in your terminal:
+---
+
+# 📘 Chapter 4: Node.js REPL & Running JavaScript Files
+
+:contentReference[oaicite:0]{index=0} is **not a programming language**.  
+It is a **runtime environment** used to run JavaScript **outside the browser**.  
+It is built on the **V8 JavaScript Engine** and is mainly used to build **server-side applications**.
+
+---
+
+## 🔍 Check Node.js Installation
+
+If Node.js is installed, check the version using the command below:
+
 ```bash
 node -v
+
 ```
 2. Type `node` in your terminal to start the NodeJS REPL (Read-Eval-Print-Loop) environment.
 
