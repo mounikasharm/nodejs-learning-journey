@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW42MzB5ZnYzYWRrc20wZWh0eHprdjRpY2dzMjQ5NTNzNjgxNjM2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"
     alt="Node.js Terminal Animation"
     width="420"
   />
