@@ -135,10 +135,7 @@ The package-lock.json file is automatically generated for any operations where n
 
 
 
-<PhotoView   src="https://user-images.githubusercontent.com/97989643/227352177-616e1fc4-55e6-432b-85a1-4cb0b59108a6.png" alt="example" >
-      <img  className="bg-purple-900 dark:bg-stone-900" style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}} align="center"  src="https://user-images.githubusercontent.com/97989643/227352177-616e1fc4-55e6-432b-85a1-4cb0b59108a6.png" alt="example" />
-                </PhotoView>
-            </PhotoProvider>
+
 
 
 
