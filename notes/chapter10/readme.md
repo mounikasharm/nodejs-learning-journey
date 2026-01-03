@@ -9,7 +9,6 @@
 
 
 
-1. We already know how to make a simple server. You can check it out the [previous chapter](https://code-xam.vercel.app/docs/node/node7)
 
  ```js
  const http = require('http');
