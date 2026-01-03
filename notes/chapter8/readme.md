@@ -3,7 +3,7 @@
 
 <p align="center">
                 <img style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}}
-                src="https://media.giphy.com/media/wTgYlmxctT2O4/giphy.gif"
+                src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm40Yjc3azV5NGU2cjB2bXNmbXozaDF2ODlkNTcyM3pta3lmNGxjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
                />
             </p>
 
